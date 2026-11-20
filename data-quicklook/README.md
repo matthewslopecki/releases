@@ -2,6 +2,8 @@
 
 Press **space** in Finder to preview data files, the same way you preview images and PDFs.
 
+Data Quick Look is free. If it saves you time, you can [☕ buy me a coffee](https://buymeacoffee.com/matthewslopecki).
+
 All versions: [Data Quick Look releases](https://github.com/matthewslopecki/releases/releases?q=data-quicklook&expanded=true)
 
 **[⬇️ Download version 0.1.0 (.dmg)](https://github.com/matthewslopecki/releases/releases/download/data-quicklook-v0.1.0/DataQuickLook.dmg)**

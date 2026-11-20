@@ -6,3 +6,5 @@ releases are tagged `<project>-v<version>`.
 | Project | What it does | Latest |
 |:---|:---|:---:|
 | [Data Quick Look](data-quicklook/) | Press space in Finder to preview Parquet, SQLite, HDF5, NumPy, Arrow, MATLAB, C3D and other data files (macOS) | [0.1.0](https://github.com/matthewslopecki/releases/releases/tag/data-quicklook-v0.1.0) |
+
+Everything here is free. If something saves you time, you can [☕ buy me a coffee](https://buymeacoffee.com/matthewslopecki).
